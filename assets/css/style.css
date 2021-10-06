@@ -1065,6 +1065,11 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.team.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
